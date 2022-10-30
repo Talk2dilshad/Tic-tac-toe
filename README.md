@@ -1,7 +1,7 @@
 <h1 align="center">
  Tic-tac-toe
 </h1>
-<p align="center">
+<p>
 Tic-tac-toe developed using react &amp; bootstrap.
 Most familiar game among all the age groups. 
 Overall the system works without any bugs.
